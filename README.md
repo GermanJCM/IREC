@@ -33,7 +33,7 @@ La página web funciona como medio de presentación del proyecto, mostrando la i
 
 ## 📂 Estructura del proyecto
 ```bash
-C:.
+IREC:
     1ro.avif
     2do.webp
     3ro.avif
